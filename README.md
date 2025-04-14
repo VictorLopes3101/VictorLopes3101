@@ -7,17 +7,16 @@
 
 ### 🌍 About Me / Sobre mim
 
-🇬🇧 I'm a systems analyst and aspiring full stack developer with a passion for building scalable web applications and automating boring stuff. I’m currently focused on personal SaaS development projects using Next.js, NestJS, and PostgreSQL, while continuously improving my data analysis and automation skills with Python and Power BI. Lifelong learner, curious about AI, always experimenting and evolving.
+🇨🇦 I'm a systems analyst and aspiring full stack developer with a passion for building scalable web applications and automating boring stuff. I’m currently focused on personal SaaS development projects using Next.js, NestJS, and PostgreSQL, while continuously improving my data analysis and automation skills with Python and Power BI. Lifelong learner, curious about AI, always experimenting and evolving. In parallel, I study **Artificial Intelligence** and languages ​​such as **German** (focused on SAP) and **Italian**.
 
 🇧🇷 Sou analista de sistemas em constante evolução, apaixonado por transformar processos em soluções inteligentes com tecnologia.  
-Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, utilizando **Next.js**, **NestJS**, **PostgreSQL**, e automações com **Python**, além de visualizações com **Power BI**.  
-Em paralelo, estudo **Inteligência Artificial** e idiomas como **Alemão** (voltado para SAP) e **Italiano**.  
+Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, utilizando **Next.js**, **NestJS**, **PostgreSQL**, e automações com **Python**, além de visualizações com **Power BI**. Em paralelo, estudo **Inteligência Artificial** e idiomas como **Alemão** (voltado para SAP) e **Italiano**.    
 
 ---
 
 ### 🚀 Em andamento
 
-- 👨‍💻 Desenvolvendo o projeto **Gas2O** – plataforma de gestão de abastecimento para frotas.
+- 👨‍💻 Desenvolvendo o projeto **Gas2O** – SAAS para distruibuidores de água mineral e gás de cozinha.
 - 🧠 Aprimorando habilidades em **IA aplicada a automações** e **análise de dados**.
 - 🛠️ Construindo um **SaaS completo** com autenticação, integração com gateways de pagamento e painéis de controle inteligentes.
 
@@ -28,8 +27,7 @@ Em paralelo, estudo **Inteligência Artificial** e idiomas como **Alemão** (vol
 - 🌱 Estudando: **Next.js**, **NestJS**, **PostgreSQL**, **Clerk**, **Supabase**, **Stripe**, **AWS S3**
 - 💬 Me pergunte sobre: **Python**, **RPA**, **Power BI**, **React**, **Node.js**, **SQL**, **Automação**
 - 📂 Portfólio: ~~[https://victorlopes3101.github.io/VL-Portifolio-1a](https://victorlopes3101.github.io/VL-Portifolio-1a)~~
-- 🤖 Fun fact: I named ChatGPT **Gepeto**, and now he helps me like a good puppet master.
-
+- 🤖 Fun fact: Eu apelidei o ChatGPT de **Gepeto**, e agora ele parece estar tunado.
 ---
 
 ### 🧰 Tech Stack
@@ -66,3 +64,7 @@ Em paralelo, estudo **Inteligência Artificial** e idiomas como **Alemão** (vol
 
 Se curtir algum projeto, considere me apoiar com um café!  
 <a href="https://buymeacoffee.com/victorlopes3101" target="
+
+🔗 **Vamos conectar:**  
+[LinkedIn](https://www.linkedin.com/in/victorlopes3101) | [GitHub](https://github.com/VictorLopes3101)
+
