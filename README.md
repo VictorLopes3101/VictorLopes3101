@@ -1,36 +1,34 @@
-![Profile views](https://komarev.com/ghpvc/?username=VictorLopes3101&label=Profile%20views&color=0e75b6&style=flat)
-
 <div align="center">
-  <h1>👋 Oi, eu sou o Victor Lopes</h1>
-  <h3>Analista de Sistemas | Dev Full Stack em formação | Fã de automações com Python</h3>
+  <h1>👋 Hi there! I'm Victor Lopes</h1>
+  <h3>Full Stack Developer in progress | Python Automator | Lifelong Learner</h3>
 </div>
 
 ---
 
-### 🌍 Sobre mim
+### 🌍 About Me / Sobre mim
 
-Sou um desenvolvedor em constante evolução, apaixonado por transformar processos em soluções inteligentes com tecnologia.  
-Atualmente, foco no desenvolvimento **Full Stack** com **Next.js**, **NestJS** e **PostgreSQL**, além de automações com **Python** e análise de dados com **Power BI**.  
-Também tenho experiência sólida com **RPA**, **ERP (Totvs, Praxio)** e **automação de rotinas administrativas e logísticas**.  
-Estou me especializando em **Inteligência Artificial** e estudando **Alemão** com foco em SAP (e Italiano por amor mesmo 🇮🇹🤌).
+🇬🇧 I'm a systems analyst and aspiring full stack developer with a passion for building scalable web applications and automating boring stuff. I’m currently focused on personal SaaS development projects using Next.js, NestJS, and PostgreSQL, while continuously improving my data analysis and automation skills with Python and Power BI. Lifelong learner, curious about AI, always experimenting and evolving.
+
+🇧🇷 Sou analista de sistemas em constante evolução, apaixonado por transformar processos em soluções inteligentes com tecnologia.  
+Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, utilizando **Next.js**, **NestJS**, **PostgreSQL**, e automações com **Python**, além de visualizações com **Power BI**.  
+Em paralelo, estudo **Inteligência Artificial** e idiomas como **Alemão** (voltado para SAP) e **Italiano**.  
 
 ---
 
 ### 🚀 Em andamento
 
-- 👨‍💻 Desenvolvendo o projeto **Gas2O**: um sistema de gestão de abastecimento para frotas — completo com autenticação, API REST, dashboards, e deploy full.
-- 🧠 Estudando **Inteligência Artificial aplicada a automações, análise de dados e produtividade**.
-- 💬 Participante ativo em bootcamps como **NLW da Rocketseat**, **Alura** e **DIO**.
+- 👨‍💻 Desenvolvendo o projeto **Gas2O** – plataforma de gestão de abastecimento para frotas.
+- 🧠 Aprimorando habilidades em **IA aplicada a automações** e **análise de dados**.
+- 🛠️ Construindo um **SaaS completo** com autenticação, integração com gateways de pagamento e painéis de controle inteligentes.
 
 ---
 
 ### ⚡ Rapid Fire
 
-- 💼 Trabalhando atualmente na **Zanchetta Alimentos** com processos fiscais e job rotation.
-- 🌱 Estudando: **Next.js, NestJS, PostgreSQL, Clerk, Supabase, Stripe**, entre outras tecnologias.
-- 🎯 Skills em destaque: **Python**, **React**, **RPA**, **Power BI**, **Node.js**, **Bancos SQL**, automações.
-- 📂 Meu portfólio: [acesse aqui](https://victorlopes3101.github.io/VL-Portifolio-1a)
-- 🧠 Fun fact: Batizei o ChatGPT de **Gepeto** e ele aceita com orgulho.
+- 🌱 Estudando: **Next.js**, **NestJS**, **PostgreSQL**, **Clerk**, **Supabase**, **Stripe**, **AWS S3**
+- 💬 Me pergunte sobre: **Python**, **RPA**, **Power BI**, **React**, **Node.js**, **SQL**, **Automação**
+- 📂 Portfólio: ~~[https://victorlopes3101.github.io/VL-Portifolio-1a](https://victorlopes3101.github.io/VL-Portifolio-1a)~~
+- 🤖 Fun fact: I named ChatGPT **Gepeto**, and now he helps me like a good puppet master.
 
 ---
 
@@ -43,7 +41,6 @@ Estou me especializando em **Inteligência Artificial** e estudando **Alemão** 
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" />
@@ -67,11 +64,5 @@ Estou me especializando em **Inteligência Artificial** e estudando **Alemão** 
 
 ### ☕ Apoie meu trabalho
 
-Se curtiu meu trabalho ou algum projeto que ajudei, considere me apoiar!  
-<a href="https://buymeacoffee.com/victorlopes3101" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="36" /></a>
-
----
-
-🔗 **Vamos conectar:**  
-[LinkedIn](https://www.linkedin.com/in/victorlopes3101) | [GitHub](https://github.com/VictorLopes3101)
-
+Se curtir algum projeto, considere me apoiar com um café!  
+<a href="https://buymeacoffee.com/victorlopes3101" target="
