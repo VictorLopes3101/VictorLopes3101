@@ -1,4 +1,8 @@
 <div align="center">
+  <h6>Alguém teve um surto e apagou tudo do GitHub, vamos recomeçar!</h6>
+</div>
+
+<div align="center">
   <h1>👋 Hi there! I'm Victor Lopes</h1>
   <h3>Full Stack Developer in progress | Python Automator | Lifelong Learner</h3>
 </div>
