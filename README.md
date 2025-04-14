@@ -62,9 +62,10 @@ Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, uti
 
 ### ☕ Apoie meu trabalho
 
-Se curtir algum projeto, considere me apoiar com um café!  
-<a href="https://buymeacoffee.com/victorlopes3101" target="
+Se curtiu meu trabalho ou algum projeto que ajudei, considere me apoiar!  
+<a href="https://buymeacoffee.com/victorlopes3101" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="36" /></a>
+
+---
 
 🔗 **Vamos conectar:**  
 [LinkedIn](https://www.linkedin.com/in/victorlopes3101) | [GitHub](https://github.com/VictorLopes3101)
-
