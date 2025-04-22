@@ -20,7 +20,7 @@ Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, uti
 
 ### 🚀 Em andamento
 
-- 👨‍💻 Desenvolvendo o projeto **Gas2O** – SAAS para distruibuidores de água mineral e gás de cozinha.
+- 👨‍💻 Desenvolvendo o projeto **Gas2O** – SAAS para distruibuidores de água mineral e gás de cozinha (Projeto Privado).
 - 🧠 Aprimorando habilidades em **IA aplicada a automações** e **análise de dados**.
 - 🛠️ Construindo um **SaaS completo** com autenticação, integração com gateways de pagamento e painéis de controle inteligentes.
 
@@ -30,7 +30,7 @@ Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, uti
 
 - 🌱 Estudando: **Next.js**, **NestJS**, **PostgreSQL**, **Clerk**, **Supabase**, **Stripe**, **AWS S3**
 - 💬 Me pergunte sobre: **Python**, **RPA**, **Power BI**, **React**, **Node.js**, **SQL**, **Automação**
-- 📂 Portfólio: ~~[https://victorlopes3101.github.io/VL-Portifolio-1a](https://victorlopes3101.github.io/VL-Portifolio-1a)~~
+- 📂 Portfólio [WIP]: ~~[https://https://victorlopes3101.vercel.app](https://victorlopes3101.vercel.app)~~
 - 🤖 Fun fact: Eu apelidei o ChatGPT de **Gepeto**, e agora ele parece estar tunado.
 ---
 
