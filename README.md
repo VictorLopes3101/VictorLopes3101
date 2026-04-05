@@ -30,7 +30,7 @@ Atualmente estou focado no desenvolvimento de **projetos pessoais de SaaS**, uti
 
 - 🌱 Estudando: **Next.js**, **NestJS**, **PostgreSQL**, **Clerk**, **Supabase**, **Stripe**, **AWS S3**
 - 💬 Me pergunte sobre: **Python**, **RPA**, **Power BI**, **React**, **Node.js**, **SQL**, **Automação**
-- 📂 Portfólio [WIP]: ~~[https://https://victorlopes3101.vercel.app](https://victorlopes3101.vercel.app)~~
+- 📂 Portfólio [WIP]: [https://victorlopes3101.me](https://victorlopes3101.me)
 - 🤖 Fun fact: Eu apelidei o ChatGPT de **Gepeto**, e agora ele parece estar tunado.
 ---
 
